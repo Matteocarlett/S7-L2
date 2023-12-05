@@ -1,0 +1,51 @@
+body {
+    text-align: center;
+    margin-top: 30rem;
+    font-family: 'Poppins', sans-serif;
+    background-color: rgb(224, 207, 186);
+}
+
+
+
+
+div {
+    display: flex;
+    justify-content: center;
+}
+
+label {
+    font-size: 4rem;
+    margin: 1rem;
+    font-weight: bold;
+}
+
+input {
+    padding: 1rem;
+}
+
+button {
+    margin: 1rem;
+    width: 10rem;
+    padding: 1rem;
+    border-radius: 20px;
+    background-color: rgba(13, 149, 13, 0.469);
+    font-size: 1.2rem;
+}
+
+#due {
+    background: rgba(190, 18, 18, 0.494)
+}
+
+p {
+    font-size: 3rem;
+
+}
+
+#nomeSalvato{
+    font-weight: bold;
+}
+
+#name{
+    font-size: 2rem;
+    text-align: center;
+}
